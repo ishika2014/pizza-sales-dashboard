@@ -77,7 +77,7 @@ Displays pizzas according to each category
 - Revenue Growth: Focus on high-performing products and sales periods to boost profits.
 
 ### 6.	Screenshots / Demos
-Show what the dashboard looks like. - 
+Show what the dashboard looks like. - https://github.com/ishika2014/pizza-sales-dashboard/blob/main/Pizza%20sales%20report(home%20page).png
 
 
 
