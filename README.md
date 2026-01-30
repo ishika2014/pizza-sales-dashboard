@@ -1,5 +1,5 @@
-Project Title : Pizza Sales Analytics Dashboard
-
+# Pizza Sales dashboard
+## Recommended Structure and order
 Project Overview:
 
 This project analyzes pizza sales data to uncover revenue trends , product performance, customer ordering behaviour. Using excel, SQL and power BI I built an interactive dashboard to help businessess optimize sales startegy and inventory planning.
