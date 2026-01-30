@@ -13,33 +13,16 @@ Pizza businessess need insights to answer
 - Which size pizza contributes to maximum sales?
 - Which are the best/worst selling pizzas?
 
-  Tools and technology used:
-  
-  -SQL : Data Extraction and analysis
-  -Excel: Data cleaning and preprocessing
-  -Power BI: Data modelling, DAX, and dashboard visualization
+Tools and technology used:  
+-SQL : Data Extraction and analysis
+-Excel: Data cleaning and preprocessing
+-Power BI: Data modelling, DAX, and dashboard visualization
 
-  Dataset Description:
-   The dataset contains pizza store sales records including:
-  -pizza id
-  -order-id
-  -pizza name
-  -quantity
-  -order date
-  -order time
-  -unit price
-  -total price
-  -pizza size
-  -pizza category
-  -pizza ingredient
-  -pizza name
+Dataset Description:
+The dataset contains pizza store sales records including:
+pizza id, order id,pizza name,quantity,order date,order time,unit price,total price,pizza size,pizza category,pizza ingredient,pizza name
 
-  Key KPI's:
-
-  -total revenue
-  -average order value
-  -total pizza sold
-  -total orders
-  -average pizza per order
+Key KPI's:
+total revenue,average order value,total pizza sold,otal orders,average pizza per order
   
   
