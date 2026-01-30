@@ -78,6 +78,7 @@ Displays pizzas according to each category
 
 ### 6.	Screenshots / Demos
 Show what the dashboard looks like. - https://github.com/ishika2014/pizza-sales-dashboard/blob/main/Pizza%20sales%20report(home%20page).png
+                                    - https://github.com/ishika2014/pizza-sales-dashboard/blob/main/pizza%20sales%20report.png
 
 
 
